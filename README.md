@@ -23,25 +23,25 @@ Filesystem	ext4
 
 The investigation included:
 
-Linux kernel information
+- Linux kernel information
 
-Apple EFI and hardware identification
+- Apple EFI and hardware identification
 
-CPU identification and capabilities
+- CPU identification and capabilities
 
-CPU frequency scaling
+- CPU frequency scaling
 
-CPUFreq governors
+- CPUFreq governors
 
-CPU behavior under load
+- CPU behavior under load
 
-System boot performance
+- System boot performance
 
-systemd startup services
+- systemd startup services
 
-Storage device health using SMART
+- Storage device health using SMART
 
-Basic CPU workload testing
+- Basic CPU workload testing
 
 ⚙️ CPU Frequency Scaling
 
