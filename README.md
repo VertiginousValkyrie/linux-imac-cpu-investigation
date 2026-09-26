@@ -7,18 +7,19 @@ The purpose of this project is to explore how the system behaves under Linux and
 This is an experimental and educational project rather than a formal hardware benchmark.
 
 🖥️ System
-Component	Information
-Computer	Apple iMac 11,3
-Operating System	Linux Mint Cinnamon
-Kernel	Linux 7.0.0-34-generic
-CPU	Intel Core i3-550
-CPU cores	2
-CPU threads	4
-Maximum CPU frequency	3.192 GHz
-Minimum CPU frequency	1.197 GHz
-CPU frequency driver	acpi-cpufreq
-Storage	1 TB Seagate Barracuda 7200.12
-Filesystem	ext4
+- Component	Information
+- Computer:	Apple iMac 11,3
+- Operating System:	Linux Mint Cinnamon
+- Kernel: Linux 7.0.0-34-generic
+- CPU:	Intel Core i3-550
+- CPU cores:	2
+- CPU threads:	4
+- Maximum CPU frequency:	3.192 GHz
+- Minimum CPU frequency:	1.197 GHz
+- CPU frequency driver:	acpi-cpufreq
+- Storage:	1 TB Seagate Barracuda 7200.12
+- Filesystem:	ext4
+
 🔍 What Was Investigated
 
 The investigation included:
