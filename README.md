@@ -7,7 +7,7 @@ The purpose of this project is to explore how the system behaves under Linux and
 This is an experimental and educational project rather than a formal hardware benchmark.
 
 🖥️ System
-- Component	Information
+Component	Information
 - Computer:	Apple iMac 11,3
 - Operating System:	Linux Mint Cinnamon
 - Kernel: Linux 7.0.0-34-generic
